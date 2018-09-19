@@ -6,11 +6,11 @@ We also collected related data which may affect the movement of cryptocurrencies
 
 We also scraped news from [bitcoin.com](https://news.bitcoin.com/) and [bitcoinist.com](https://bitcoinist.com/category/news/).
 
-We use classical time series analysis like ARIMA, VARMAX to analysis the time series.
+We used classical time series analysis like ARIMA, VARMAX to analysis the time series.
 
-We use NLP to analysis the news.
+We used NLP to analysis the news.
 
-Finally, we try to combine these numeric features and text features together to build a model based on recurrent neural network, with the aim to predict price movement.
+Finally, we tried to combine these numeric features and text features together to build a model based on recurrent neural network, with the aim to predict price movement.
 
 Presentation Material
 
